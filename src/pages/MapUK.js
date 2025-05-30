@@ -31,7 +31,7 @@ function MapUK() {
       0,
     );
     const levelElement = document.getElementById("level");
-    levelElement.textContent = `UK Level ${totalLevel}`;
+    levelElement.textContent = `Norge Level ${totalLevel}`;
   }, [countyScores]);
 
   const getColorByLevel = (level) => {
@@ -171,7 +171,7 @@ function MapUK() {
           <span className="button-tooltip-text radius tooltip">Reset</span>
         </button>
         <button className="button-tooltip" onClick={download}>
-          <DownloadIcon aria-label="Download map" />
+          <DownloadIcon aria-label="Last ned kart" />
           <span className="button-tooltip-text radius tooltip">Download</span>
         </button>
         <button
@@ -250,22 +250,22 @@ function CountyCard({ countyName, position, levelClick }) {
       <p id="county-name">{countyName}</p>
       <div id="card-options">
         <p id="lived" onClick={() => levelClick(5)}>
-          Lived here
+          Bodd her
         </p>
         <p id="stayed" onClick={() => levelClick(4)}>
-          Stayed here
+          Overnattet her
         </p>
         <p id="visited" onClick={() => levelClick(3)}>
-          Visited here
+          Besøkt her
         </p>
         <p id="stopped" onClick={() => levelClick(2)}>
-          Stopped here
+          Stoppet her
         </p>
         <p id="passed" onClick={() => levelClick(1)}>
-          Passed here
+          Passert her
         </p>
         <p id="never-been" onClick={() => levelClick(0)}>
-          Never been here
+          Aldri vert her
         </p>
       </div>
     </div>
