@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { ReactComponent as Map } from "../assets/MapChart_Map.svg";
+import { ReactComponent as Map } from "../assets/norway.svg";
 import { ReactComponent as GithubIcon } from "../assets/github-mark-white.svg";
 import { ReactComponent as DownloadIcon } from "../assets/download.svg";
 import { ReactComponent as ResetIcon } from "../assets/delete.svg";
