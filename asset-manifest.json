@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/norgeskart/static/css/main.721b2ee2.css",
+    "main.js": "/norgeskart/static/js/main.f57d668c.js",
+    "static/js/453.ed3810f9.chunk.js": "/norgeskart/static/js/453.ed3810f9.chunk.js",
+    "static/media/norway.svg": "/norgeskart/static/media/norway.e5cc7f87b48db1e50ad5ddb01da011f2.svg",
+    "static/media/404.jpg": "/norgeskart/static/media/404.e3170b35261b6751efb8.jpg",
+    "index.html": "/norgeskart/index.html",
+    "static/media/github-mark-white.svg": "/norgeskart/static/media/github-mark-white.3575f325890c752370d47ef0b3d95d62.svg",
+    "static/media/close-black.svg": "/norgeskart/static/media/close-black.14b72f39bbd07f081c7ea262e2453539.svg",
+    "static/media/linkedin.svg": "/norgeskart/static/media/linkedin.bc6daa1c79920e89069af709fe057e73.svg",
+    "static/media/info.svg": "/norgeskart/static/media/info.36bedfbf795ff6906da494f365161926.svg",
+    "static/media/delete.svg": "/norgeskart/static/media/delete.257df24c891ef30517525f6f1d37f4b0.svg",
+    "static/media/download.svg": "/norgeskart/static/media/download.3b0bd743873f49d2028431ab078c4aca.svg",
+    "main.721b2ee2.css.map": "/norgeskart/static/css/main.721b2ee2.css.map",
+    "main.f57d668c.js.map": "/norgeskart/static/js/main.f57d668c.js.map",
+    "453.ed3810f9.chunk.js.map": "/norgeskart/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721b2ee2.css",
+    "static/js/main.f57d668c.js"
+  ]
+}
